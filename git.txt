@@ -3,3 +3,5 @@
 履歴の確認
 
 pull req test by misakit
+
+pull req test2 by misakit
